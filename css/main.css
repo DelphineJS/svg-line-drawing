@@ -1,12 +1,12 @@
 #narwhal-body {
   animation: fill-narwhal-body 2s linear forwards;
-  stroke-dasharray: 1981.415;
-  stroke-dashoffset: 1981.415;
+  stroke-dasharray: 1981.415px;
+  stroke-dashoffset: 1981.415px;
 }
 
 @keyframes fill-narwhal-body {
   0% {
-    stroke-dashoffset: 1981.415;
+    stroke-dashoffset: 1981.415px;
   }
 
   70% {
@@ -21,14 +21,14 @@
 
 #rainbow-violet {
   animation: fill-violet 2s linear forwards;
-  stroke-dasharray: 1917.692;
-  stroke-dashoffset: 1917.692;
+  stroke-dasharray: 1917.692px;
+  stroke-dashoffset: 1917.692px;
 }
 
 @keyframes fill-violet {
 
   0% {
-    stroke-dashoffset: 1917.692;
+    stroke-dashoffset: 1917.692px;
   }
 
   70% {
@@ -43,14 +43,14 @@
 
 #rainbow-indigo {
   animation: fill-indigo 2s linear forwards;
-  stroke-dasharray: 1812.502;
-  stroke-dashoffset: 1812.502;
+  stroke-dasharray: 1812.502px;
+  stroke-dashoffset: 1812.502px;
 }
 
 @keyframes fill-indigo {
 
   0% {
-    stroke-dashoffset: 1812.502;
+    stroke-dashoffset: 1812.502px;
   }
 
   70% {
@@ -65,13 +65,13 @@
 
 #rainbow-blue {
   animation: fill-blue 2s linear forwards;
-  stroke-dasharray: 1705.479;
-  stroke-dashoffset: 1705.479;
+  stroke-dasharray: 1705.479px;
+  stroke-dashoffset: 1705.479px;
 }
 
 @keyframes fill-blue {
   0% {
-    stroke-dashoffset: 1705.479;
+    stroke-dashoffset: 1705.479px;
   }
 
   70% {
@@ -87,13 +87,13 @@
 
 #rainbow-green {
   animation: fill-green 2s linear forwards;
-  stroke-dasharray: 1596.043;
-  stroke-dashoffset: 1596.043;
+  stroke-dasharray: 1596.043px;
+  stroke-dashoffset: 1596.043px;
 }
 
 @keyframes fill-green {
   0% {
-    stroke-dashoffset: 1596.043;
+    stroke-dashoffset: 1596.043px;
   }
 
   70% {
@@ -108,14 +108,14 @@
 
 #rainbow-yellow {
   animation: fill-yellow 2s linear forwards;
-  stroke-dasharray: 1483.352;
-  stroke-dashoffset: 1483.352;
+  stroke-dasharray: 1483.352px;
+  stroke-dashoffset: 1483.352px;
 }
 
 @keyframes fill-yellow {
 
   0% {
-    stroke-dashoffset: 1483.352;
+    stroke-dashoffset: 1483.352px;px
   }
 
   70% {
@@ -130,14 +130,14 @@
 
 #rainbow-orange {
   animation: fill-orange 2s linear forwards;
-  stroke-dasharray: 1366.26;
-  stroke-dashoffset: 1366.26;
+  stroke-dasharray: 1366.26px;
+  stroke-dashoffset: 1366.26px;
 }
 
 @keyframes fill-orange {
 
   0% {
-    stroke-dashoffset: 1366.26;
+    stroke-dashoffset: 1366.26px;
   }
 
   70% {
@@ -152,14 +152,14 @@
 
 #rainbow-red {
   animation: fill-red 2s linear forwards;
-  stroke-dasharray: 1243.044;
-  stroke-dashoffset: 1243.044;
+  stroke-dasharray: 1243.044px;
+  stroke-dashoffset: 1243.044px;
 }
 
 @keyframes fill-red {
 
   0% {
-    stroke-dashoffset: 1243.044;
+    stroke-dashoffset: 1243.044px;
   }
 
   70% {
@@ -191,4 +191,11 @@
     opacity: 1;
   }
 
+}
+
+h1 {
+  z-index: 1000;
+  color: #fff;
+  font-family: Unica One, sans-serif;
+  top: 30%;
 }
