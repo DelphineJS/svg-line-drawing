@@ -1,0 +1,95 @@
+#narwhal-body {
+  animation: fill-narwhal-body 2s linear forwards;
+  stroke-dasharray: 1981.415;
+  stroke-dashoffset: 1981.415;
+}
+
+@keyframes fill-narwhal-body {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-violet {
+  animation: fill-violet 2s linear forwards;
+  stroke-dasharray: 1917.692;
+  stroke-dashoffset: 1917.692;
+}
+
+@keyframes fill-violet {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-indigo {
+  animation: fill-indigo 2s linear forwards;
+  stroke-dasharray: 1812.502;
+  stroke-dashoffset: 1812.502;
+}
+
+@keyframes fill-indigo {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-blue {
+  animation: fill-blue 2s linear forwards;
+  stroke-dasharray: 1705.479;
+  stroke-dashoffset: 1705.479;
+}
+
+@keyframes fill-blue {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-green {
+  animation: fill-green 2s linear forwards;
+  stroke-dasharray: 1596.043;
+  stroke-dashoffset: 1596.043;
+}
+
+@keyframes fill-green {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-yellow {
+  animation: fill-yellow 2s linear forwards;
+  stroke-dasharray: 1483.352;
+  stroke-dashoffset: 1483.352;
+}
+
+@keyframes fill-yellow {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-orange {
+  animation: fill-orange 2s linear forwards;
+  stroke-dasharray: 1366.26;
+  stroke-dashoffset: 1366.26;
+}
+
+@keyframes fill-orange {
+  to {
+    stroke-dashoffset:0;
+  }
+}
+
+#rainbow-red {
+  animation: fill-red 2s linear forwards;
+  stroke-dasharray: 1243.044;
+  stroke-dashoffset: 1243.044;
+}
+
+@keyframes fill-red {
+  to {
+    stroke-dashoffset:0;
+  }
+}
