@@ -115,7 +115,7 @@
 @keyframes fill-yellow {
 
   0% {
-    stroke-dashoffset: 1483.352px;px
+    stroke-dashoffset: 1483.352px;
   }
 
   70% {
@@ -196,6 +196,6 @@
 h1 {
   z-index: 1000;
   color: #fff;
-  font-family: Unica One, sans-serif;
+  font-family: "Unica One", sans-serif;
   top: 30%;
 }
