@@ -201,6 +201,6 @@ h1 {
   font-family: "Unica One", sans-serif;
   top: 20%;
   animation: fade-in 2s linear forwards;
-  max-width:33%;
+  max-width: 33%;
   opacity: 0;
 }
