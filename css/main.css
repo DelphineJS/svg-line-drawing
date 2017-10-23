@@ -5,13 +5,14 @@
 }
 
 @keyframes fill-narwhal-body {
+
   0% {
     stroke-dashoffset: 1981.415px;
   }
 
   70% {
     stroke-dashoffset: 0;
-}
+  }
 
   100% {
     stroke-dashoffset: 0;
@@ -70,6 +71,7 @@
 }
 
 @keyframes fill-blue {
+
   0% {
     stroke-dashoffset: 1705.479px;
   }
@@ -84,7 +86,6 @@
 
 }
 
-
 #rainbow-green {
   animation: fill-green 2s linear forwards;
   stroke-dasharray: 1596.043px;
@@ -92,6 +93,7 @@
 }
 
 @keyframes fill-green {
+
   0% {
     stroke-dashoffset: 1596.043px;
   }
@@ -172,13 +174,13 @@
 
 }
 
-
 #narwhal-eye {
   opacity: 0;
   animation: fade-in 2s linear forwards;
 }
 
 @keyframes fade-in {
+
   0% {
     opacity: 0;
   }
